@@ -49,7 +49,7 @@ Cria um cartão que possua a seguinte estrutura utilizando os metodos (createEle
 		</div>
 		<div class="skill javascript">
 			<h6><i class="fab fa-js"></i> JavaScript</h6>
-			<div class="bar bar-js">
+			<div class="bar bar-javascript">
 				<p>75%</p>
 			</div>
 		</div>
